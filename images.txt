@@ -5,5 +5,8 @@ postgres:alpine
 multiarch/qemu-user-static
 alisaqaq/mcsmanager-web
 alisaqaq/mcsmanager-daemon
+registry
+busybox:latest
+ubuntu
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
