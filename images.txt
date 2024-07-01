@@ -8,5 +8,6 @@ alisaqaq/mcsmanager-daemon
 registry
 busybox:latest
 ubuntu
+nginx-proxy-manager
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
