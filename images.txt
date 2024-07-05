@@ -13,12 +13,6 @@ haproxy
 wordpress
 mysql
 php:7.3.29-fpm
-kube-apiserver
-kube-proxy
-kube-controller-manager
-kube-scheduler
-coredns
-etcd
-pause
+mcsm-openjdk:17
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
