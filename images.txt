@@ -16,3 +16,4 @@ php:7.3.29-fpm
 mcsm-openjdk:17
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+budtmo/docker-android:emulator_9.0
