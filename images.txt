@@ -14,6 +14,7 @@ wordpress
 mysql
 php:7.3.29-fpm
 mcsm-openjdk:17
-redroid/redroid:11.0.0:latest
+redroid/redroid:11.0.0-latest
+redroid/redroid:12.0.0_64only-240527
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
